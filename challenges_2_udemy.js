@@ -26,7 +26,6 @@ function simplificarRuta(path){
                 let without = tamano - 1
                 console.log(`${lchar.substring(0,without)}`);
             }
-           
         }
       }
 
